@@ -1,0 +1,8 @@
+body {
+  color: #FF0000;
+  background-color: #cccccc;
+  border: 3px dashed black;
+  margin: 100px;
+  text-align: center;
+  font-size: 200%;
+}
